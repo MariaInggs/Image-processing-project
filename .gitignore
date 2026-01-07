@@ -1,4 +1,4 @@
 
 *.jpeg
 .DS_Store
-*.class
+target/
